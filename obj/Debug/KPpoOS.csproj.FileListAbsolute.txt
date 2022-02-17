@@ -1,0 +1,10 @@
+D:\Programming\C#\KPpoOS\bin\Debug\KPpoOS.exe.config
+D:\Programming\C#\KPpoOS\bin\Debug\KPpoOS.exe
+D:\Programming\C#\KPpoOS\bin\Debug\KPpoOS.pdb
+D:\Programming\C#\KPpoOS\obj\Debug\KPpoOS.csproj.AssemblyReference.cache
+D:\Programming\C#\KPpoOS\obj\Debug\KPpoOS.Form1.resources
+D:\Programming\C#\KPpoOS\obj\Debug\KPpoOS.Properties.Resources.resources
+D:\Programming\C#\KPpoOS\obj\Debug\KPpoOS.csproj.GenerateResource.cache
+D:\Programming\C#\KPpoOS\obj\Debug\KPpoOS.csproj.CoreCompileInputs.cache
+D:\Programming\C#\KPpoOS\obj\Debug\KPpoOS.exe
+D:\Programming\C#\KPpoOS\obj\Debug\KPpoOS.pdb
